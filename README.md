@@ -25,7 +25,7 @@ A fast, lightweight Roblox account manager built with Rust and [egui](https://gi
 
 ```bash
 # Clone the repository
-git clone https://github.com/centerepic/ram2.git
+git clone https://github.com/pubmain/roblox-account-manager.git
 cd ram2
 
 # Build in release mode
